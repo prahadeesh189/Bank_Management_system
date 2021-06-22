@@ -57,8 +57,8 @@ int transferMoney();
 
 unsigned long long int accountNoGenerator();
 
-char personalDataFile[] = "C://Users//Prahadeesh//Desktop//pds_proj_DB//custPersonaldataDB.dat";
-char accountDataFile[]  = "C://Users//Prahadeesh//Desktop//pds_proj_DB//custAccountdataDB.dat";
+char personalDataFile[] = "~pathForYourComputer/custPersonaldataDB.dat";
+char accountDataFile[]  = "~pathForYourComputer/custAccountdataDB.dat";
 
 void main(){
 
